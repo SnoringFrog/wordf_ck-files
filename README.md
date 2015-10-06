@@ -1,0 +1,1 @@
+Collection of programs written in [Wordfuck](https://esolangs.org/wiki/Wordfuck) (aka Natural BF-based language with common instructions and syntax of that language (NBFBLWCIASTL)) as well as a Wordfuck-to-brainfuck conversion script.
